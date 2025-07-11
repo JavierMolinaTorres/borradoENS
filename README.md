@@ -8,7 +8,6 @@ Este repositorio contiene una herramienta práctica y efectiva para realizar **b
 
 - `borrado_ens.sh` — Script en Bash + Zenity para selección gráfica de carpetas
 - `procedimiento.md` — Guía paso a paso para crear el entorno Live USB y usar el script
-- `BorrarSeguro.desktop` *(opcional)* — Lanzador para uso desde entorno gráfico
 
 ## ⚙️ Requisitos
 
